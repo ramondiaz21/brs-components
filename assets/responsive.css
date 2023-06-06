@@ -1,0 +1,307 @@
+@media (max-width: 991.98px) {
+  .reviews-divided .elements-wrapper {
+    flex-direction: column;
+  }
+
+  .services-wrapper .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .header-menu .header-logo {
+    padding: 15px 0;
+  }
+
+  .header-menu .side-menu-icon {
+    padding: 0 20px;
+    text-align: right;
+  }
+
+  .reviews-divided .home_review_back,
+  .reviews-divided .home_review_back2 {
+    padding: 0 15px 300px 15px;
+  }
+
+  .what-we-do .services-wrapper .center-vertical {
+    align-items: center;
+    padding: 100px 15px;
+  }
+
+  .blog .category-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .blog .blog-entries-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .blog .blog-entries-wrapper .wp-block-latest-posts__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .about .dedicated .three-images-wrapper,
+  .reviews-three-images .three-images-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+
+  .faqs .accordion-wrapper .card-header {
+    justify-content: space-between;
+  }
+
+  .faqs .accordion-wrapper .card-header h3 {
+    width: 70%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .reviews-divided .elements-wrapper {
+    flex-direction: column;
+  }
+
+  .services-wrapper .services-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .header-menu .header-logo {
+    padding: 15px 0;
+  }
+
+  .header-menu .side-menu-icon {
+    padding: 0 20px;
+    text-align: right;
+  }
+
+  .header-menu .header-logo img {
+    width: 100%;
+  }
+
+  .home .carousel-1 {
+    background-image: url("https://mlqxpvh6earq.i.optimole.com/w:auto/h:auto/q:mauto/process:2937/id:02d801e2cd68076b47cc8f91ee8a9ffc/https://brsmechanicalsd.com/Portada-01-m.jpg");
+  }
+
+  .home .carousel-2 {
+    background-image: url("https://mlqxpvh6earq.i.optimole.com/w:auto/h:auto/q:mauto/process:2938/id:9d6aabedafb65fedc951fa012c7a51d8/https://brsmechanicalsd.com/Portada-02-m.jpg");
+  }
+
+  .home .carousel-3 {
+    background-image: url("https://mlqxpvh6earq.i.optimole.com/w:auto/h:auto/q:mauto/process:2939/id:15219f7bd3114bde3c7480d73adc4779/https://brsmechanicalsd.com/Portada-03-m.jpg");
+  }
+
+  .what-we-do .hero,
+  .about .hero,
+  .blog .hero,
+  .faqs .hero {
+    background-image: url("https://brsmechanicalsd.com/wp-content/uploads/2022/brsmechanical/banner_header_vertical.webp");
+  }
+
+  .reviews-divided .home_review_back,
+  .reviews-divided .home_review_back2 {
+    padding: 0 15px 300px 15px;
+  }
+
+  .what-we-do .services-wrapper .center-vertical {
+    align-items: center;
+    padding: 100px 15px;
+  }
+
+  .about .dedicated {
+    background-image: url("https://brsmechanicalsd.com/wp-content/uploads/2022/brsmechanical/about_hero_vertical.webp");
+  }
+
+  .about .over .row {
+    flex-direction: column-reverse;
+  }
+
+  .blog .category-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .blog .blog-entries-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .blog .blog-entries-wrapper .wp-block-latest-posts__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .about .dedicated .three-images-wrapper,
+  .reviews-three-images .three-images-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+
+  .about .what-we-do-about .divided-wrapper {
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    text-align: center;
+  }
+
+  .about .visit-us .divided-wrapper,
+  .contact .visit-us .divided-wrapper {
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    text-align: center;
+  }
+
+  .header-menu .icon-wrapper {
+    height: 5em;
+    width: 5em;
+  }
+
+  .header-menu .icon-wrapper i {
+    font-size: 2.5em;
+  }
+
+  .header-menu .text-wrapper .headline-3 {
+    font-size: 2.1em;
+  }
+
+  .header-menu .blue-back {
+    padding: 10px 0;
+  }
+
+  .faqs .accordion-wrapper .card-header {
+    justify-content: space-between;
+  }
+
+  .faqs .accordion-wrapper .card-header h3 {
+    width: 70%;
+  }
+
+  .reviews-section .cards-reviews {
+    gap: 30px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .reviews-divided .elements-wrapper {
+    flex-direction: column;
+  }
+
+  .services-wrapper .services-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .reviews-divided .elements-wrapper {
+    padding: 30px 0;
+  }
+
+  .reviews-divided .home_review_back,
+  .reviews-divided .home_review_back2 {
+    padding: 0 15px 300px 15px;
+  }
+
+  .about .dedicated .three-images-wrapper,
+  .reviews-three-images .three-images-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+
+  .about .over .centered {
+    padding: 100px 0;
+  }
+
+  .header-menu .header-logo {
+    padding: 15px 0;
+  }
+
+  .header-menu .header-logo img {
+    width: 100%;
+  }
+
+  .header-menu .side-menu-icon {
+    padding: 0 20px;
+    text-align: right;
+  }
+
+  .home .home .image-wrapper {
+    display: grid;
+    flex-direction: column;
+    gap: 30px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .home .home {
+    background-image: url("https://brsmechanicalsd.com/wp-content/uploads/2022/brsmechanical/vertical_1.webp");
+  }
+
+  .what-we-do .hero,
+  .about .hero,
+  .blog .hero,
+  .faqs .hero {
+    background-image: url("https://brsmechanicalsd.com/wp-content/uploads/2022/brsmechanical/banner_header_vertical.webp");
+  }
+
+  .what-we-do .services-wrapper .center-vertical {
+    align-items: center;
+    padding: 100px 15px;
+  }
+
+  .about .dedicated {
+    background-image: url("https://brsmechanicalsd.com/wp-content/uploads/2022/brsmechanical/about_hero_vertical.webp");
+  }
+
+  .about .over .row {
+    flex-direction: column-reverse;
+  }
+
+  .blog .category-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .blog .blog-entries-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .blog .blog-entries-wrapper .wp-block-latest-posts__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .about .what-we-do-about .divided-wrapper {
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    text-align: center;
+  }
+
+  .about .visit-us .divided-wrapper,
+  .contact .visit-us .divided-wrapper {
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    text-align: center;
+  }
+
+  .header-menu .icon-wrapper {
+    height: 5em;
+    width: 5em;
+  }
+
+  .header-menu .icon-wrapper i {
+    font-size: 2.5em;
+  }
+
+  .header-menu .text-wrapper .headline-3 {
+    font-size: 2.1em;
+  }
+
+  .header-menu .blue-back {
+    padding: 10px 0;
+  }
+
+  .faqs .accordion-wrapper .card-header {
+    justify-content: space-between;
+  }
+
+  .faqs .accordion-wrapper .card-header h3 {
+    width: 70%;
+  }
+
+  .reviews-section .cards-reviews {
+    gap: 30px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

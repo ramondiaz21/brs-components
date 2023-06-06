@@ -1,0 +1,25 @@
+.card-body.service-description {
+  padding: 1.25rem;
+}
+
+.what-we-do .btn-link{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+}
+
+.btn-link {
+  text-decoration: none;
+}
+
+.what-we-do .btn-link i {
+  background: rgb(15 77 143 / 30%);
+  border-radius: 100px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
